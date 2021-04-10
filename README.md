@@ -4,11 +4,21 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
+start =>mongod
+Robo 3T
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+First install npm i --save
+then start serve => nodemon server
+
+
+## todoAngular
+
+Start todoangular 
+=>npm install --save
+then start 
+=>ng serve
+
 
 ## Build
 
