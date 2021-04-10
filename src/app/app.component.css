@@ -1,0 +1,14 @@
+.bg-light {
+    background-color: #212529!important;
+}
+ .navbar-light .navbar-nav .nav-link {
+    color: #e2dede!important;
+}
+
+.navbar-light .navbar-brand {
+    color: #dee2e6!important;
+    font-size: 20px!important;
+}  
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #bd2130!important;
+}
